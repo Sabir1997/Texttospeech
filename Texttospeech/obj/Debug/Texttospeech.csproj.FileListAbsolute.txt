@@ -1,0 +1,10 @@
+C:\Users\Sabir\Desktop\texttospeech\Texttospeech\Texttospeech\bin\Debug\Texttospeech.exe.config
+C:\Users\Sabir\Desktop\texttospeech\Texttospeech\Texttospeech\bin\Debug\Texttospeech.exe
+C:\Users\Sabir\Desktop\texttospeech\Texttospeech\Texttospeech\bin\Debug\Texttospeech.pdb
+C:\Users\Sabir\Desktop\texttospeech\Texttospeech\Texttospeech\obj\Debug\Texttospeech.csprojAssemblyReference.cache
+C:\Users\Sabir\Desktop\texttospeech\Texttospeech\Texttospeech\obj\Debug\Texttospeech.Form1.resources
+C:\Users\Sabir\Desktop\texttospeech\Texttospeech\Texttospeech\obj\Debug\Texttospeech.Properties.Resources.resources
+C:\Users\Sabir\Desktop\texttospeech\Texttospeech\Texttospeech\obj\Debug\Texttospeech.csproj.GenerateResource.cache
+C:\Users\Sabir\Desktop\texttospeech\Texttospeech\Texttospeech\obj\Debug\Texttospeech.csproj.CoreCompileInputs.cache
+C:\Users\Sabir\Desktop\texttospeech\Texttospeech\Texttospeech\obj\Debug\Texttospeech.exe
+C:\Users\Sabir\Desktop\texttospeech\Texttospeech\Texttospeech\obj\Debug\Texttospeech.pdb
